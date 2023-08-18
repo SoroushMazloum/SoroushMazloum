@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![Soroush Mazloums's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoroushGit&show_icons=true&theme=blue-green)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoroushGit&theme=neon&layout=donut&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoroushGit&theme=neon&layout=vertical &langs_count=9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoroushGit&theme=neon&layout=vertical&langs_count=9)
