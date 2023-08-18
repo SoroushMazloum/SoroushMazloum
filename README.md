@@ -1,4 +1,4 @@
-### Hi there 👋
+<!---### Hi there 👋-->
 
 <!--
 **SoroushGit/SoroushGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![github stats](https://github-readme-stats.vercel.app/api?username=SoroushGit&show_icons=true&include_all_commits=true&theme=dark&cache_seconds=3200)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoroushGit&theme=dark&layout=compact&hide_title=true)
